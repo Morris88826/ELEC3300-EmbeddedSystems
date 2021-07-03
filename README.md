@@ -1,3 +1,3 @@
 # ELEC3300
 
-Here are the programming assignments from the Embedded System course in HKUST, spring 2021.
+Here are the programming assignments of the course Introduction to Embedded Systems in Spring, 2021.
